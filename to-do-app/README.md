@@ -9,3 +9,10 @@ npm install
 npm start // Runs the create react app server in port 3000
 open http://localhost:3000
 ```
+
+
+![alt text](https://github.com/KonstantinosNikopoulos/React-Projects/blob/main/to-do-app/images/1.png)
+
+![alt text](https://github.com/KonstantinosNikopoulos/React-Projects/blob/main/to-do-app/images/2.png)
+
+![alt text](https://github.com/KonstantinosNikopoulos/React-Projects/blob/main/to-do-app/images/3.png)
