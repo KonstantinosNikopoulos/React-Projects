@@ -1,0 +1,60 @@
+.App {
+  text-align: center;
+  background-color: blue;
+  min-height: 100vh;
+  padding: 50px 20vw 50px 20vw;
+}
+
+.todo{
+  background-color: gainsboro;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.thing {
+  background-color: white;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 8px;
+}
+
+.title{
+  color: white;
+  padding: 10px;
+}
+
+.form {
+  margin-bottom: 10px;
+}
+
+.del-button{
+  color: white;
+  background-color: red;
+  border-radius: 12px;
+  font-family: Avenir, Arial, sans-serif;
+  font-weight: 300;
+  font-size: 1.2rem;
+  border: none;
+}
+
+.com-button{
+  color: white;
+  background-color: green;
+  border-radius: 12px;
+  font-family: Avenir, Arial, sans-serif;
+  font-weight: 300;
+  font-size: 1.2rem;
+  margin: 0 0 0 10px;
+  border: none;
+}
+
+.add-button{
+  color: white;
+  background-color: green;
+  border-radius: 12px;
+  font-family: Avenir, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 1.3rem;
+  margin: 0 0 0 10px;
+  border: none;
+}
